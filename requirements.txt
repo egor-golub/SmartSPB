@@ -1,0 +1,8 @@
+# requirements.txt
+loguru==0.7.2
+langchain-ollama==0.1.0
+langchain-community==0.1.0
+python-telegram-bot==20.7
+python-dotenv==1.0.0
+loguru==0.7.2
+requests==2.31.0
